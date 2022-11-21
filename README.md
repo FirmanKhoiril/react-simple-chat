@@ -8,6 +8,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/80eb5402-9277-4627-a468-ab500bc3fddc/deploy-status)](https://app.netlify.com/sites/whimsical-zabaione-57f93e/deploys)
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
